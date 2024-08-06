@@ -1,50 +1,48 @@
-# TeamName_ProjectName
+# IEEEVitBhopal_BLH08_Codastic5
+
 
 ## Project Title
-TeamName_ProjectName
+- Hygiene in Rural Areas
 
 ## Team Name
-TeamName
+- Codastic 5
 
 ## Team Members
-- Member1
-- Member2
-- Member3
-- Member4
+- Kirti Pratihar
+- Uditya Narayan Tiwari
+- Aditya Roy
 
 ## Project Description
-Provide a brief description of the project here. Include the purpose of the project, the problem it solves, and any important details that give a clear understanding of what the project is about.
+This project aims to improve menstrual hygiene and sanitation for females in rural areas. Our main goal is to reduce the usage of cloth, which can cause harmful diseases, by providing a sustainable solution to distribute affordable sanitary pads. This will be facilitated through a simple web dashboard, accessible on basic mobile phones, enabling women to order pads and receive education on menstrual hygiene.
 
 ## Technologies Used
-- Technology1
-- Technology2
-- Technology3
-- Technology4
+- Frontend
+  - Html
+  - Css
+  - Javascript
+- Backend
+  - PHP
+  - Python(CSV files for storing data)
+  - MySQL
 
 ## Setup Instructions
-1. Clone the repository: `git clone https://github.com/TeamName/TeamName_ProjectName.git`
-2. Navigate to the project directory: `cd TeamName_ProjectName`
-3. Install the required dependencies: `pip install -r requirements.txt`
-4. Set up any necessary environment variables:
-   ```bash
-   export VARIABLE_NAME=value
-   ```
-5. Run the setup script (if applicable): `python setup.py`
+1. Clone the repository: `git clone https://github.com/KirtiPratihar/IEEEVitBhopal_BLH08_Codastic5`
+2. Navigate to the project directory: `cd IEEEVitBhopal_BLH08_Codastic5`
+3. Install the required extension in vs code: `live server`
 
 ## Usage Instructions
-1. To start the application, run:
-   ```bash
-   python main.py
-   ```
-2. Follow the on-screen instructions to use the application.
-3. [Add any specific usage instructions here, such as navigating the UI, performing tasks, etc.]
+1. To fire up the website, run the extension by clicking on the bottom right:
+   ``` bash
+   Port:5500 
+2. Do the first step after following the Setup Instructions.
+
 
 ## Theme Fit
-Explain how the project fits the chosen theme. Provide examples and highlight any specific features or functionalities that align with the theme.
+- Our project, focusing on menstrual health and hygiene for females in rural areas, fits perfectly within the broader theme of hygiene in rural areas. The website will provide a sustainable solution by connecting users to NGOs, accepting donations, and collecting reviews from women in the form of videos, comments, and audio about pads or any related issues.
 
 ## Future Enhancements
-- Enhancement1: Description of the planned enhancement.
-- Enhancement2: Description of the planned enhancement.
-- Enhancement3: Description of the planned enhancement.
-- Enhancement4: Description of the planned enhancement.
+#### - AI-Powered Review Section: Develop an AI model to automatically translate video and audio reviews into text, making them accessible to all users.
+#### - Enhanced User Interface: Improve the user interface for better accessibility and user experience.
+#### - Mobile App Integration: Develop a mobile app to complement the web dashboard, increasing accessibility.
+#### - Community Engagement: Create forums and discussion boards for women to share their experiences and support each other.
 
