@@ -41,8 +41,8 @@ This project aims to improve menstrual hygiene and sanitation for females in rur
 - Our project, focusing on menstrual health and hygiene for females in rural areas, fits perfectly within the broader theme of hygiene in rural areas. The website will provide a sustainable solution by connecting users to NGOs, accepting donations, and collecting reviews from women in the form of videos, comments, and audio about pads or any related issues.
 
 ## Future Enhancements
-#### - AI-Powered Review Section: Develop an AI model to automatically translate video and audio reviews into text, making them accessible to all users.
-#### - Enhanced User Interface: Improve the user interface for better accessibility and user experience.
-#### - Mobile App Integration: Develop a mobile app to complement the web dashboard, increasing accessibility.
-#### - Community Engagement: Create forums and discussion boards for women to share their experiences and support each other.
+#### 1. AI-Powered Review Section: Develop an AI model to automatically translate video and audio reviews into text, making them accessible to all users.
+#### 2. Enhanced User Interface: Improve the user interface for better accessibility and user experience.
+#### 3. Mobile App Integration: Develop a mobile app to complement the web dashboard, increasing accessibility.
+#### 4. Community Engagement: Create forums and discussion boards for women to share their experiences and support each other.
 
