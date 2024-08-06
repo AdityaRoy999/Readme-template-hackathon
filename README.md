@@ -14,6 +14,9 @@
 
 ## Project Description
 This project aims to improve menstrual hygiene and sanitation for females in rural areas. Our main goal is to reduce the usage of cloth, which can cause harmful diseases, by providing a sustainable solution to distribute affordable sanitary pads. This will be facilitated through a simple web dashboard, accessible on basic mobile phones, enabling women to order pads and receive education on menstrual hygiene.
+<h1 align="center">
+    <img src="https://github.com/AdityaRoy999/Readme-template-hackathon/blob/main/flowchart.png" />
+</h1>
 
 ## Technologies Used
 - Frontend
